@@ -2,13 +2,13 @@
 
 # Members
 
-   Carl Pierre Jr
-
-   Holley Ladarria
-
    Emery Allen
 
    Brittney Browne
+   
+   Holley Ladarria
+
+   Carl Pierre Jr
 
 # Submissions
 
